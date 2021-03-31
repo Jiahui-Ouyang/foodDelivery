@@ -1,5 +1,5 @@
 
-# Git flow
+# WAD final project - fooddelivery
 * **branch**: create a branch for the new feature/idea 
 	* **develop** the feature
 	* **add commits** to keep track of the changes  	
